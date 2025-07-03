@@ -1,5 +1,7 @@
 body {
     color: rgb(0, 0, 0); /* cor do texto */
     background: rgb(255, 255, 255); /* cor da página */
-
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
